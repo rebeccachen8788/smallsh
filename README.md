@@ -6,7 +6,7 @@ Interactive Prompt: Smallsh provides an interactive command prompt where users c
 
 Command Line Parsing: Input from the user is parsed into semantic tokens, allowing for easy processing of commands.
 
-Parameter Expansion: Smallsh supports parameter expansion for certain tokens, such as $$, $?, and $!.
+Parameter Expansion: Smallsh supports parameter expansion for certain tokens, such as '$$', '$?', and '$!'.
 
 Built-in Commands: Implemented two built-in commands: exit and cd, enabling users to exit the shell or change the current working directory.
 
